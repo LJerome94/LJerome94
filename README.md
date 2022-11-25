@@ -1,5 +1,5 @@
 
-## :call_me_hand: About
+## About
 
 I'm an undergrad physics student at Université de Sherbrooke and hobbyist game developper. I have mostly worked on computer simulation programs and tools for my developpement environements.
 
